@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Jefferson González",
+    "url": "https://github.com/jgmdev",
+		"contributions": "wxPHP code generator"
+	},
+	{
+		"name": "Andrea Zanellato",
+		"url": "https://github.com/redtide",
+		"contributions": "wxWizard, wx2.9+ support, Premake4 build scripts, Website"
+	}
+]
